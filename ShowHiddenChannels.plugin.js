@@ -4,7 +4,7 @@
  * @version 0.3.8
  * @author DrakesWeb
  * @authorId 619203349954166804
- * @source https://github.com/JustOptimize/return-ShowHiddenChannels
+ * @source https://github.com/DrakesBot12/ShowHiddenChannels
  * @description A plugin which displays all hidden Channels and allows users to view information about them, this won't allow you to read them (impossible).
 */
 
